@@ -12,6 +12,7 @@
       "type": "git",
       "url": "https://github.com/clineis/rust-essential-pack"
   },
+  "icon": "rust-essentials-pack.png",
   "categories": ["Extension Packs"],
   "extensionPack": [
     "rust-lang.rust-analyzer",
