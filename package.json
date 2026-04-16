@@ -1,0 +1,23 @@
+{
+  "name": "rust-essentials-pack",
+  "displayName": "Rust Essentials Pack",
+  "description": "Minimal Rust development setup for VS Code.",
+  "version": "1.0.0",
+  "publisher": "clint",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/clineis/rust-essential-pack"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "rust-lang.rust-analyzer",
+    "vadimcn.vscode-lldb",
+    "tamasfe.even-better-toml",
+    "fill-labs.dependi",
+    "anthropic.claude-code"
+  ]
+}
